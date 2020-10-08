@@ -1,0 +1,14 @@
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\bin\x64\Debug\HorizonTrain.exe.config
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\bin\x64\Debug\HorizonTrain.exe
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\bin\x64\Debug\HorizonTrain.pdb
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\bin\x64\Debug\Memory.dll
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\obj\x64\Debug\HorizonTrain.csprojAssemblyReference.cache
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\obj\x64\Debug\HorizonTrain.MainForm.resources
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\obj\x64\Debug\HorizonTrain.Properties.Resources.resources
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\obj\x64\Debug\HorizonTrain.csproj.GenerateResource.cache
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\obj\x64\Debug\HorizonTrain.csproj.CoreCompileInputs.cache
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\obj\x64\Debug\HorizonTrain.csproj.CopyComplete
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\obj\x64\Debug\HorizonTrain.exe
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\obj\x64\Debug\HorizonTrain.pdb
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\Symetryn\source\repos\HorizonTrain\HorizonTrain\bin\x64\Debug\System.Security.Principal.Windows.xml
